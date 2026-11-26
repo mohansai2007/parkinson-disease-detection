@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/YOUR_ACTUAL_USERNAME/parkinson-disease-detection/blob/main/Parkinson_Detection_Kaggle_Colab.ipynb">
+  <a href="https://colab.research.google.com/github/mohansai2007/parkinson-disease-detection/blob/main/Parkinson_Detection_Kaggle_Colab.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ Parkinson's Disease (PD) affects motor control, which can be observed in hand-dr
 ### Option 2: Local (requires GPU recommended)
 
 ```bash
-git clone https://github.com/YOUR_ACTUAL_USERNAME/parkinson-disease-detection.git
+git clone https://github.com/mohansai2007/parkinson-disease-detection.git
 cd parkinson-disease-detection
 pip install -r requirements.txt
 jupyter notebook Parkinson_Detection_Kaggle_Colab.ipynb
