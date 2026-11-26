@@ -3,18 +3,36 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
   <img src="https://img.shields.io/badge/TensorFlow-2.14+-orange?logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Gradio-UI-purple?logo=gradio" />
+  <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit" />
   <img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
 <p align="center">
+  <a href="https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="35"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://colab.research.google.com/github/mohansai2007/parkinson-disease-detection/blob/main/Parkinson_Detection_Kaggle_Colab.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="35"/>
   </a>
 </p>
 
-> **Early-stage Parkinson's Disease detection from spiral & wave drawings using Deep Learning — with a stunning 3D DNA/Neuron animated Gradio interface and Grad-CAM explainability.**
+<p align="center">
+  <b>🚀 <a href="https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app">👉 Click here for Live Demo</a> 🚀</b>
+</p>
+
+> **Early-stage Parkinson's Disease detection from spiral & wave drawings using Deep Learning — with a stunning 3D DNA/Neuron animated UI, live metrics (Accuracy · Precision · Recall · F1) and Grad-CAM explainability.**
+
+---
+
+## 🌐 Live Demo
+
+**Try it instantly — no installation needed:**
+
+> 🔗 **[https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app](https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app)**
+
+Upload any spiral or wave drawing → get instant Parkinson's risk prediction with live metrics.
 
 ---
 
