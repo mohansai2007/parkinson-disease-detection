@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 <a href="https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app">👉 Click here for Live Demo</a> 🚀</b>
+  <b>🚀 <a href="https://parkinson-disease-detection-bim9lnopggn3uf7bcendgx.streamlit.app/">👉 Click here for Live Demo</a> 🚀</b>
 </p>
 
 > **Early-stage Parkinson's Disease detection from spiral & wave drawings using Deep Learning — with a stunning 3D DNA/Neuron animated UI, live metrics (Accuracy · Precision · Recall · F1) and Grad-CAM explainability.**
