@@ -30,7 +30,7 @@
 
 **Try it instantly — no installation needed:**
 
-> 🔗 **[https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app](https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app)**
+> 🔗 **[https://parkinson-disease-detection-ukrlka3vibzupvnoosnk3m.streamlit.app](https://parkinson-disease-detection-bim9lnopggn3uf7bcendgx.streamlit.app/)**
 
 Upload any spiral or wave drawing → get instant Parkinson's risk prediction with live metrics.
 
